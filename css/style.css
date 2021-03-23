@@ -1,0 +1,225 @@
+.product {
+   background-color: #445161;
+}
+
+.product-title {
+   font-family: Arial;
+   font-style: normal;
+   font-weight: normal;
+   font-size: 60px;
+   line-height: 69px;
+   color: #FFFFFF;
+}
+
+.product-list-item {
+   font-family: Arial;
+   font-style: normal;
+   font-weight: normal;
+   font-size: 20px;
+   line-height: 23px;
+   color: #FFFFFF;
+}
+
+.product-pic {
+   background: #FFFFFF
+}
+
+.About {
+   font-family: Arial;
+   font-style: normal;
+   font-weight: normal;
+   font-size: 30px;
+   line-height: 36px;
+   color: #445161;
+}
+
+.about-p1 {
+   font-family: Arial;
+   font-style: normal;
+   font-weight: normal;
+   font-size: 16px;
+   line-height: 24px;
+   color: #445161;
+}
+
+.about-p2 {
+   font-family: Arial;
+   font-style: normal;
+   font-weight: normal;
+   font-size: 16px;
+   line-height: 24px;
+   color: #445161;
+}
+
+.about-pic {
+   background: #445161;
+}
+
+.plus {
+   background: #F5F5F5;
+}
+
+.plus-title {
+   font-family: Arial;
+   font-style: normal;
+   font-weight: normal;
+   font-size: 30px;
+   line-height: 36px;
+   color: #445161;
+}
+
+.Plus-list-item {
+   font-family: Arial;
+   font-style: normal;
+   font-weight: normal;
+   font-size: 16px;
+   line-height: 24px;
+   color: #445161;
+}
+
+.screen-title {
+   font-family: Arial;
+   font-style: normal;
+   font-weight: normal;
+   font-size: 30px;
+   line-height: 36px;
+   color: #445161;
+}
+
+.screen-heading {
+   font-family: Arial;
+   font-style: normal;
+   font-weight: normal;
+   font-size: 24px;
+   line-height: 30px;
+   color: #445161;
+}
+
+.screen-text {
+   font-family: Arial;
+   font-style: normal;
+   font-weight: normal;
+   font-size: 16px;
+   line-height: 24px;
+   color: #445161;
+}
+
+.rewiew {
+   background: #F5F5F5;
+}
+
+.rewiew-title {
+   font-family: Arial;
+   font-style: normal;
+   font-weight: normal;
+   font-size: 30px;
+   line-height: 36px;
+   color: #445161;
+}
+
+.rewiew-item-test1 {
+   font-family: Roboto;
+   font-style: italic;
+   font-weight: normal;
+   font-size: 14px;
+   line-height: 18px;
+   color: #445161;
+
+}
+
+.rewiew-item-text2 {
+   font-family: Roboto;
+   font-style: italic;
+   font-weight: normal;
+   font-size: 14px;
+   line-height: 18px;
+   color: #989898;
+}
+
+.byitnow-title {
+   font-family: Arial;
+   font-style: normal;
+   font-weight: normal;
+   font-size: 30px;
+   line-height: 36px;
+   color: #445161;
+}
+
+.byitnow-item {
+   background-color: #445162;
+}
+
+.byitnow-item-title {
+   font-family: Arial;
+   font-style: normal;
+   font-weight: normal;
+   font-size: 24px;
+   line-height: 30px;
+   color: #FFFFFF;
+}
+
+.byitnow-item-price {
+   background: #FFFFFF;
+   font-family: Arial;
+   font-style: normal;
+   font-weight: normal;
+   font-size: 40px;
+   line-height: 30px;
+   color: #445162;
+}
+
+.byitnow-item-text {
+   font-family: Arial;
+   font-style: normal;
+   font-weight: normal;
+   font-size: 14px;
+   line-height: 24px;
+   color: #FFFFFF;
+}
+
+.byitnow-form-but {
+   font-family: Arial;
+   font-style: normal;
+   font-weight: bold;
+   font-size: 18px;
+   line-height: 18px;
+   color: #445161;
+   background: #FFFFFF;
+}
+
+.Contacts {
+   background-color: #445162;
+}
+
+.Contacts-title {
+   font-family: Arial;
+   font-style: normal;
+   font-weight: normal;
+   font-size: 30px;
+   line-height: 36px;
+   color: #FFFFFF;
+}
+
+.contact-subinfo-list-text {
+   font-family: Arial;
+   font-style: normal;
+   font-weight: normal;
+   font-size: 16px;
+   line-height: 24px;
+
+   color: #FFFFFF;
+}
+
+.footer {
+
+   background: #F5F5F5;
+}
+
+.footer-name {
+   font-family: Arial;
+   font-style: normal;
+   font-weight: normal;
+   font-size: 12px;
+   line-height: 24px;
+   color: #445162;
+}
