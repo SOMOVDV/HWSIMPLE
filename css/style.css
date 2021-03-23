@@ -1,5 +1,12 @@
 .product {
    background-color: #445161;
+
+}
+
+.wrap {
+   width: 1272px;
+   margin: 0 auto;
+   outline: 5px solid olivedrab;
 }
 
 .product-title {
@@ -9,6 +16,19 @@
    font-size: 60px;
    line-height: 69px;
    color: #FFFFFF;
+   margin-bottom: 36px;
+   margin-top: 30px;
+   margin-left: 50px;
+}
+
+.product-wrap {
+   display: flex;
+   justify-content: space-between;
+
+}
+
+.product-list {
+   padding-left: 72px;
 }
 
 .product-list-item {
@@ -16,12 +36,16 @@
    font-style: normal;
    font-weight: normal;
    font-size: 20px;
-   line-height: 23px;
+   line-height: 32px;
    color: #FFFFFF;
+
 }
 
 .product-pic {
-   background: #FFFFFF
+   background: #FFFFFF width: 472px;
+   height: 217px;
+   padding: 30px;
+   padding-right: 50px;
 }
 
 .About {
@@ -31,6 +55,9 @@
    font-size: 30px;
    line-height: 36px;
    color: #445161;
+   margin-top: 50px;
+   margin-bottom: 15px;
+   padding-left: 50px;
 }
 
 .about-p1 {
@@ -40,6 +67,10 @@
    font-size: 16px;
    line-height: 24px;
    color: #445161;
+   width: 646px;
+   margin-top: 10px;
+   padding-left: 50px;
+   margin-bottom: 10px;
 }
 
 .about-p2 {
@@ -49,14 +80,23 @@
    font-size: 16px;
    line-height: 24px;
    color: #445161;
+   width: 646px;
+   margin-top: 10px;
+   padding-left: 50px;
 }
 
 .about-pic {
    background: #445161;
+   width: 430px;
+   height: 245px;
+   margin-top: 48px;
+   margin-right: 50px;
+   margin-bottom: 50px;
 }
 
 .plus {
    background: #F5F5F5;
+   height: 360px;
 }
 
 .plus-title {
@@ -66,6 +106,19 @@
    font-size: 30px;
    line-height: 36px;
    color: #445161;
+   display: flex;
+   justify-content: center;
+   margin-bottom: 16px;
+}
+
+.plus-list {
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: space-between;
+   height: 300px;
+   margin-left: 50px;
+   margin-right: 20px;
+
 }
 
 .Plus-list-item {
@@ -75,6 +128,10 @@
    font-size: 16px;
    line-height: 24px;
    color: #445161;
+   width: 556px;
+   height: 72px;
+   flex-direction: row;
+   flex-wrap: wrap;
 }
 
 .screen-title {
