@@ -29,7 +29,11 @@
 
 .product-list {
    padding-left: 72px;
+   list-style-image: url('../icons/li1.svg');
+
 }
+
+
 
 .product-list-item {
    font-family: Arial;
@@ -39,13 +43,15 @@
    line-height: 32px;
    color: #FFFFFF;
 
+
+
 }
 
 .product-pic {
    background: #FFFFFF;
-   width: 472px;
+   width: 384px;
    height: 217px;
-   margin-right: 42px;
+   margin-right: 70px;
    margin-top: 33px;
 }
 
@@ -110,6 +116,8 @@
    display: flex;
    justify-content: center;
    margin-bottom: 16px;
+   padding-top: 20px;
+
 }
 
 .plus-list {
@@ -119,7 +127,14 @@
    height: 300px;
    margin-left: 50px;
    margin-right: 20px;
+   list-style-image: url('../icons/li2.svg');
 
+}
+
+
+
+.plus-list::marker {
+   padding-top: 30px;
 }
 
 .Plus-list-item {
@@ -145,6 +160,8 @@
    display: flex;
    justify-content: center;
    padding-top: 15px;
+
+
 }
 
 .screen-wrap {
@@ -221,9 +238,9 @@
    color: #445161;
    display: flex;
    justify-content: center;
-   padding: top 10px;
    margin-top: 75px;
    margin-left: 15px;
+   padding-top: 20px;
 
 }
 
@@ -421,11 +438,13 @@
 
 .mtype {
    resize: none;
-   max-width: 99%;
-   min-width: 99%;
+   max-width: 94.5%;
+   min-width: 94.5%;
    min-height: 200px;
    max-height: 200px;
    border-radius: 5px;
+   padding-bottom: 15px;
+
 }
 
 .contact-form-but {
@@ -436,9 +455,10 @@
    font-weight: bold;
    font-size: 16px;
    line-height: 24px;
-   margin-top: 15px;
+
    margin-left: 170px;
    border-radius: 5px;
+   margin-bottom: 20px;
 
 
    display: flex;
