@@ -135,6 +135,7 @@
 
 .plus-list::marker {
    padding-top: 30px;
+
 }
 
 .Plus-list-item {
@@ -502,4 +503,13 @@
    color: #445162;
    display: flex;
    justify-content: center;
+}
+
+.fa-facebook {
+   font-size: 46px;
+   color: #fff;
+   text-align: center;
+   position: relative;
+   top: -5px;
+   left: -14px;
 }
